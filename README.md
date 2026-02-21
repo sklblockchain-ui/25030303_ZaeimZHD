@@ -15,8 +15,6 @@ target, enabling better planning for the actual attack.
 
 ## a. nmap reconnaissance
 
-### Command:nmap
-
 ![Nmap Screenshot 1](nmap-1.png)
 
 ![Nmap Screenshot 2](nmap-2.png)
@@ -27,6 +25,8 @@ target, enabling better planning for the actual attack.
 For this exercise, the loopback IP address `127.0.0.1` (localhost) was used as the scanning target. This ensures that all reconnaissance activities were conducted within a controlled and authorized lab environment without targeting external or third-party systems.## Conclusion for Nmap
 
 Nmap is a powerful reconnaissance tool that allows penetration testers to identify open ports, detect service versions, and determine operating system information. It provides critical intelligence that supports further exploitation phases in penetration testing.
+
+This command performs a TCP port scan to identify open or filtered ports on the target system. It helps determine which network services are exposed and may require further security assessment.
 
 
 ## b. recon-ng reconnaissance
@@ -66,6 +66,8 @@ DNSRecon is an effective DNS enumeration tool used during the reconnaissance pha
 
 Through basic enumeration, zone transfer attempts, and brute-force subdomain discovery, DNSRecon demonstrates how attackers may attempt to extract valuable infrastructure information from DNS servers. Even when zone transfer attempts fail, it confirms that proper security configurations are in place.
 
+This command performs DNS enumeration to gather domain-related information such as name servers and record types. It is used to assess how much infrastructure information is publicly exposed.
+
 Overall, DNSRecon provides valuable insight into domain configurations and potential exposure points, making it an important tool in reconnaissance activities.
 
 
@@ -89,6 +91,7 @@ Feature 2 - Scan specific port to once
 ## Conclusion for Hping3
 
 Hping3 allows penetration testers to craft and send custom network packets to evaluate system responses and firewall behavior. It is useful for low-level network probing and testing port accessibility during reconnaissance.
+This command sends crafted TCP SYN packets to test whether a specific port responds. It is useful for evaluating firewall behavior and network accessibility.
 
 # Tool Comparison and Overall Conclusion
 
@@ -168,6 +171,7 @@ Feature 3: Terminal 2 - Local Encrypted Local connection
 
 Conclusion for Cryptcat
 Cryptcat enables encrypted communication between systems, making it useful for maintaining secure access during post-exploitation activities. By configuring listener mode and encryption keys, it demonstrates how secure remote sessions can be established and maintained in a controlled lab environment.
+This command starts a listener that waits for encrypted connections. It demonstrates how secure remote communication channels can be established during post-exploitation.
 
 ## c. Webshells
 
@@ -182,6 +186,7 @@ Note: The webshell was created and analyzed in a controlled lab environment for 
 Conclusion for Webshells
 
 The webshell demonstration highlights how a simple script can be used to execute system commands remotely if uploaded to a vulnerable web server. Although the example was created in a controlled lab environment, it illustrates the serious security risks associated with improper file upload validation and insecure web server configurations.
+This script demonstrates how a web-based backdoor can execute system commands if uploaded to a vulnerable server. It highlights the risks associated with improper file upload validation.
 
 # Task 2 Tool Comparison and Conclusion
 
