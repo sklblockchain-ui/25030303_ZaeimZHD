@@ -65,4 +65,26 @@ Through basic enumeration, zone transfer attempts, and brute-force subdomain dis
 Overall, DNSRecon provides valuable insight into domain configurations and potential exposure points, making it an important tool in reconnaissance activities.
 
 
+## d. hping3 reconnaissance
+
+Hping3 is a network packet crafting tool used during reconnaissance to send custom TCP/IP packets to a target system. It is commonly used for firewall testing, port scanning, and network diagnostics.
+
+### Feature 1: Basic ICMP Ping
+![hping3 Screenshot 1](hping3-1.png)
+
+Feature 2 - TCP SYN Packet to Specific Port
+![hping3 Screenshot 1](hping3-2.png)
+
+Feature 2 - Scan specific port to once
+![hping3 Screenshot 1](hping3-3.png)
+
+
+---
+
+## Conclusion for Hping3
+
+Hping3 allows penetration testers to craft and send custom network packets to evaluate system responses and firewall behavior. It is useful for low-level network probing and testing port accessibility during reconnaissance.
+
+
+
 
