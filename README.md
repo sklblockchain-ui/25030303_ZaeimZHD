@@ -9,7 +9,7 @@ This project is for educational purposes only. All testing was performed in a co
 ## Matric Number: 25030303
 ## Course: TMS6064 Cyber Security  
 ## Task 1: Reconnaissance
-## Nmap Reconnaissance
+## a. nmap reconnaissance
 
 ### Command:nmap
 
@@ -23,6 +23,15 @@ This project is for educational purposes only. All testing was performed in a co
 For this exercise, the loopback IP address `127.0.0.1` (localhost) was used as the scanning target. This ensures that all reconnaissance activities were conducted within a controlled and authorized lab environment without targeting external or third-party systems.## Conclusion for Nmap
 
 Nmap is a powerful reconnaissance tool that allows penetration testers to identify open ports, detect service versions, and determine operating system information. It provides critical intelligence that supports further exploitation phases in penetration testing.
+
+
+## b. recon-ng reconnaissance
+Step 1 - marketplace search
+![Nmap Screenshot 1](nmap-1.png)
+Step 2 - module install and load
+![Nmap Screenshot 1](nmap-1.png)
+Step 3 - insert and fix domain in options + run
+![Nmap Screenshot 1](nmap-1.png)
 
 
 
