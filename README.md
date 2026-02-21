@@ -129,10 +129,14 @@ Step 1 - create lab directory + webshell +start php server
 ![weevely Screenshot 1](create.lab-1.png)
 ![weevely Screenshot 1](create.lab-2.png)
 
+Step 2 - generate webshell
+![weevely Screenshot 1](create.lab-3.png)
+
 Feature Demonstrated :
 ![weevely Screenshot 1](shell.php-1.png)
 ![weevely Screenshot 1](shell.php-2.png)
 ![weevely Screenshot 1](shell.php-3.png)
+
 -Remote Command Execution
 Allows execution of system-level commands via URL parameters.
 - Persistent Backdoor Access
@@ -140,7 +144,11 @@ As long as the webshell file remains on the server, remote access is possible.
 -Lightweight Deployment
 The webshell requires only a small PHP file and minimal configuration.
 
-## a. weevey
+Conclusion for Weevely
+
+Weevely demonstrates how attackers can maintain persistent access through web-based backdoors. By generating a password-protected PHP shell, it highlights the risks associated with insecure web server configurations.
+
+## b. cryptcat
 
 Tool Overview
 
