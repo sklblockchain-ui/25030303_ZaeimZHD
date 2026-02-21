@@ -81,10 +81,32 @@ Feature 2 - Scan specific port to once
 
 ---
 
+
 ## Conclusion for Hping3
 
 Hping3 allows penetration testers to craft and send custom network packets to evaluate system responses and firewall behavior. It is useful for low-level network probing and testing port accessibility during reconnaissance.
 
+# Tool Comparison and Overall Conclusion
 
+Each reconnaissance tool serves a different purpose during penetration testing:
+
+- Nmap focuses on network scanning, port discovery, and service detection.
+- Recon-ng provides structured OSINT gathering through modular domain intelligence collection.
+- DNSRecon specializes in DNS enumeration and domain record analysis.
+- Hping3 allows low-level packet crafting and network probing for firewall and port testing.
+
+Nmap and DNSRecon are primarily focused on technical network enumeration. Recon-ng is more structured and suitable for organized intelligence gathering projects. Hping3 operates at a lower network layer, allowing detailed packet manipulation and testing.
+
+Overall, combining these tools provides a comprehensive reconnaissance approach, covering port scanning, DNS analysis, OSINT collection, and packet-level testing.# References
+
+1. How to Install Linux on Mac. (n.d.). YouTube. https://youtu.be/bcaF1OSivYI?si=RcfSMhyXuvbSTU6a  
+
+2. Nmap Tutorial for Beginners. (n.d.). YouTube. https://youtu.be/W7076RPIgfQ?si=DRO1e0qxH0lg2bcy  
+
+3. Recon-ng Tutorial and Usage Guide. (n.d.). YouTube. https://youtu.be/HLf2ANp7NwM?si=XXWPM2UyA7WLrkl0  
+
+4. DNSRecon Tutorial for Kali Linux. (n.d.). YouTube. https://youtu.be/KvMI3ICQWGY?si=ifqiH0UobfsK6x09  
+
+5. Hping3 Tutorial and Demonstration. (n.d.). YouTube. https://youtu.be/EuLowz1aLwQ?si=BsAIrSPydh6hl1zz  
 
 
