@@ -353,13 +353,13 @@ Understanding these mechanisms is essential for implementing effective:
 3. **Web Hacking for Beginners #19 How To Use Weevely PHP Backdoor**  
    https://youtu.be/Y1gY5En6MsM :contentReference[oaicite:1]{index=1}
 
-4. **YouTube Video (zZc6L5II90c)** *(title not available — insert manually if known)**  
+4. **YouTube Video (zZc6L5II90c)** How Hackers Bypass Website File Upload Filters (Upload WebShell Backdoor) | picoCTF - byp4ss3d**  
    https://youtu.be/zZc6L5II90c
 
-5. **YouTube Video (hQ_0XBClqI0)** *(title not available — insert manually if known)**  
+5. **YouTube Video (hQ_0XBClqI0)** Hackers Love This Trick: Web Shell Upload Demo & Explained**  
    https://youtu.be/hQ_0XBClqI0
 
-6. **YouTube Video (bnIrhbNpX-I)** *(title not available — insert manually if known)** 
+6. **YouTube Video (bnIrhbNpX-I)** 59. Generating a PHP backdoor with Weevely - Post exploitation - The Complete Ethical Hacking Class** 
    https://youtu.be/bnIrhbNpX-I
 
 
