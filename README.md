@@ -140,4 +140,24 @@ As long as the webshell file remains on the server, remote access is possible.
 -Lightweight Deployment
 The webshell requires only a small PHP file and minimal configuration.
 
+## a. weevey
+
+Tool Overview
+
+Cryptcat is an enhanced version of Netcat that provides encrypted communication between two systems. It is commonly used in post-exploitation phases to maintain remote access securely through encrypted channels.
+
+---
+
+Feature 1: Display Help Menu
+![cryptcat Screenshot 1](cryptcat-1.png)
+
+
+Feature 2: Terminal 1 - Listerner Mode
+![cryptcat Screenshot 1](cryptcat-3.png)
+
+Feature 3: Terminal 2 - Local Encrypted Local connection
+![cryptcat Screenshot 1](cryptcat-2.png)
+
+Conclusion for Cryptcat
+Cryptcat enables encrypted communication between systems, making it useful for maintaining secure access during post-exploitation activities. By configuring listener mode and encryption keys, it demonstrates how secure remote sessions can be established and maintained in a controlled lab environment.
 
