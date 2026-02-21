@@ -8,7 +8,11 @@ This project is for educational purposes only. All testing was performed in a co
 ## Student Name: ZAEIM HUZAIRY  
 ## Matric Number: 25030303
 ## Course: TMS6064 Cyber Security  
-## Task 1: Reconnaissance
+
+# Task 1: Reconnaissance
+Reconnaissance, a pen tester collects preliminary information or intelligence on the
+target, enabling better planning for the actual attack.
+
 ## a. nmap reconnaissance
 
 ### Command:nmap
@@ -97,7 +101,9 @@ Each reconnaissance tool serves a different purpose during penetration testing:
 
 Nmap and DNSRecon are primarily focused on technical network enumeration. Recon-ng is more structured and suitable for organized intelligence gathering projects. Hping3 operates at a lower network layer, allowing detailed packet manipulation and testing.
 
-Overall, combining these tools provides a comprehensive reconnaissance approach, covering port scanning, DNS analysis, OSINT collection, and packet-level testing.# References
+Overall, combining these tools provides a comprehensive reconnaissance approach, covering port scanning, DNS analysis, OSINT collection, and packet-level testing.
+
+# References
 
 1. How to Install Linux on Mac. (n.d.). YouTube. https://youtu.be/bcaF1OSivYI?si=RcfSMhyXuvbSTU6a  
 
@@ -107,6 +113,19 @@ Overall, combining these tools provides a comprehensive reconnaissance approach,
 
 4. DNSRecon Tutorial for Kali Linux. (n.d.). YouTube. https://youtu.be/KvMI3ICQWGY?si=ifqiH0UobfsK6x09  
 
-5. Hping3 Tutorial and Demonstration. (n.d.). YouTube. https://youtu.be/EuLowz1aLwQ?si=BsAIrSPydh6hl1zz  
+5. Hping3 Tutorial and Demonstration. (n.d.). YouTube. https://youtu.be/EuLowz1aLwQ?si=BsAIrSPydh6hl1zz
+
+
+# Task 2: Reconnaissance
+Maintaining access, this phase requires the pen tester to continue dominating the
+target system as long as possible and cause more destruction. It requires tools that can
+allow stealthy behavior and under-the-ground operations.
+
+## a. weevey
+What is Weevely?
+Weevely is a stealth PHP web shell used to maintain access to compromised web servers.
+
+Step 1 - create labd
+
 
 
