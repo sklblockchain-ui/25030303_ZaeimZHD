@@ -169,3 +169,30 @@ Feature 3: Terminal 2 - Local Encrypted Local connection
 Conclusion for Cryptcat
 Cryptcat enables encrypted communication between systems, making it useful for maintaining secure access during post-exploitation activities. By configuring listener mode and encryption keys, it demonstrates how secure remote sessions can be established and maintained in a controlled lab environment.
 
+## c. Webshells
+
+Webshells are commonly used in post-exploitation phases to maintain persistent access. Therefore, organizations must implement strict access controls, secure coding practices, and regular security monitoring to prevent unauthorized script execution.
+
+
+Feature 1: Display Help Menu
+![webshells Screenshot 1](webshell-1.png)
+
+Note: The webshell was created and analyzed in a controlled lab environment for educational purposes only. It was not deployed to any external or unauthorized system.
+
+Conclusion for Webshells
+
+The webshell demonstration highlights how a simple script can be used to execute system commands remotely if uploaded to a vulnerable web server. Although the example was created in a controlled lab environment, it illustrates the serious security risks associated with improper file upload validation and insecure web server configurations.
+
+# Task 2 Tool Comparison and Conclusion
+
+The maintaining access tools demonstrate different persistence techniques:
+
+- Cryptcat establishes encrypted communication channels for remote access.
+- Weevely generates a stealth PHP backdoor for web-based remote control.
+- Webshell scripts provide simple command execution capabilities through web servers.
+
+Cryptcat focuses on encrypted communication channels, while Weevely and Webshells target web server persistence. These tools highlight how attackers maintain long-term access after initial exploitation.
+
+Understanding these techniques is essential for implementing proper firewall controls, web application security, and intrusion detection mechanisms.
+
+
