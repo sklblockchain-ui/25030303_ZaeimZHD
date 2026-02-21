@@ -35,5 +35,15 @@ Step 2 - module install and load
 Step 3 - insert and fix domain in options + run
 ![recon-ng Screenshot 1](recon-ng-3.png)
 
+The `options set SOURCE` command defines the target domain for enumeration.  
+The `run` command executes the selected reconnaissance module against the specified domain.
+
+## Conclusion for Recon-ng
+
+Recon-ng is a modular reconnaissance framework designed for open-source intelligence (OSINT) gathering. Unlike single-command tools, Recon-ng provides a structured environment with workspaces, module management, and database integration to organize reconnaissance activities efficiently.
+
+Through marketplace search, module installation, module loading, and execution using defined options, the framework demonstrates how reconnaissance can be conducted in a systematic and organized manner. The workspace feature further enhances project separation and data management.
+
+Overall, Recon-ng is powerful for domain enumeration and intelligence gathering, making it highly suitable for structured penetration testing engagements.
 
 
