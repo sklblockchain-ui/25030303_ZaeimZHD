@@ -1,3 +1,10 @@
+TMS6064 Cyber Security – Assignment 1
+Disclaimer
+This project is conducted strictly for educational purposes in a controlled lab environment using virtual machines and authorized targets only.
+Student Information
+Name: ZAEIM HUZAIRY
+Matric Number: 25030303
+Course: TMS6064 Cyber Security
 Task 1: Reconnaissance Phase
 Reconnaissance is the initial phase of penetration testing where information about a target system is gathered to support further security assessment.
 The following four tools were used:
@@ -5,6 +12,19 @@ Nmap
 Recon-ng
 DNSRecon
 Hping3
+1. Nmap – Network Scanning
+Target Selection
+The loopback address 127.0.0.1 (localhost) was used to ensure all scanning activities were performed safely within the lab environment.
+Features Demonstrated
+Basic TCP Port Scan
+Service and Port Detection
+Host Availability Detection
+Purpose
+Nmap is used to discover open ports and identify exposed services on a target system. It helps penetration testers determine potential attack surfaces.
+Security Relevance
+Identifying open services allows security professionals to evaluate which services require hardening or further vulnerability testing.
+Conclusion
+Nmap provides essential network intelligence including port exposure and service availability. It is a foundational tool in reconnaissance activities.
 # TMS6064 Cyber Security – Assignment 1
 
 ## Disclaimer
