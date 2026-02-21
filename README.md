@@ -318,7 +318,7 @@ This script demonstrates how a web-based backdoor can execute system commands if
 
 ---
 
-## 🔐 Task 2 Tool Comparison
+##  Task 2 Tool Comparison
 
 | Tool      | Persistence Method            | Primary Risk                          |
 |-----------|------------------------------|---------------------------------------|
@@ -328,7 +328,7 @@ This script demonstrates how a web-based backdoor can execute system commands if
 
 ---
 
-## ✅ Overall Task 2 Conclusion
+## Overall Task 2 Conclusion
 
 The maintaining access tools demonstrate different persistence techniques including:
 
