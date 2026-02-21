@@ -342,5 +342,24 @@ Understanding these mechanisms is essential for implementing effective:
 - Secure coding practices  
 
 ---
+##  References
+
+1. **ChatGPT Shared Link**  
+   https://chatgpt.com/share/699a2c77-2588-800f-a84a-2b383dd82ae7
+
+2. **How Hackers Chat in Terminal (SECURELY!) | Cryptcat – Kali …**  
+   https://youtu.be/nd54NLbmbP0 :contentReference[oaicite:0]{index=0}
+
+3. **Web Hacking for Beginners #19 How To Use Weevely PHP Backdoor**  
+   https://youtu.be/Y1gY5En6MsM :contentReference[oaicite:1]{index=1}
+
+4. **YouTube Video (zZc6L5II90c)** *(title not available — insert manually if known)**  
+   https://youtu.be/zZc6L5II90c
+
+5. **YouTube Video (hQ_0XBClqI0)** *(title not available — insert manually if known)**  
+   https://youtu.be/hQ_0XBClqI0
+
+6. **YouTube Video (bnIrhbNpX-I)** *(title not available — insert manually if known)** 
+   https://youtu.be/bnIrhbNpX-I
 
 
