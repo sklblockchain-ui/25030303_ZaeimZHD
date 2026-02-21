@@ -126,8 +126,8 @@ What is Weevely?
 Weevely is a stealth PHP web shell used to maintain access to compromised web servers.
 
 Step 1 - create lab directory + webshell +start php server
-![weevely Screenshot 1](createlab-1.png)
-![weevely Screenshot 1](createlab-2.png)
+![weevely Screenshot 1](create.lab-1.png)
+![weevely Screenshot 1](create.lab-2.png)
 
 Feature Demonstrated :
 ![weevely Screenshot 1](shell.php-1.png)
