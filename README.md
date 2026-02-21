@@ -28,8 +28,10 @@ Nmap is a powerful reconnaissance tool that allows penetration testers to identi
 ## b. recon-ng reconnaissance
 Step 1 - marketplace search
 ![recon-ng Screenshot 1](recong-ng-1.png)
+
 Step 2 - module install and load
 ![recon-ng Screenshot 1](recon-ng-2.png)
+
 Step 3 - insert and fix domain in options + run
 ![recon-ng Screenshot 1](recon-ng-3.png)
 
