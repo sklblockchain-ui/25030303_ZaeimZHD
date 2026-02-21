@@ -1,3 +1,10 @@
+Task 1: Reconnaissance Phase
+Reconnaissance is the initial phase of penetration testing where information about a target system is gathered to support further security assessment.
+The following four tools were used:
+Nmap
+Recon-ng
+DNSRecon
+Hping3
 # TMS6064 Cyber Security – Assignment 1
 
 ## Disclaimer
