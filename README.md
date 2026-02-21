@@ -348,10 +348,10 @@ Understanding these mechanisms is essential for implementing effective:
    https://chatgpt.com/share/699a2c77-2588-800f-a84a-2b383dd82ae7
 
 2. **How Hackers Chat in Terminal (SECURELY!) | Cryptcat – Kali …**  
-   https://youtu.be/nd54NLbmbP0 :contentReference[oaicite:0]{index=0}
+   https://youtu.be/nd54NLbmbP0 
 
 3. **Web Hacking for Beginners #19 How To Use Weevely PHP Backdoor**  
-   https://youtu.be/Y1gY5En6MsM :contentReference[oaicite:1]{index=1}
+   https://youtu.be/Y1gY5En6MsM
 
 4. **YouTube Video (zZc6L5II90c)** How Hackers Bypass Website File Upload Filters (Upload WebShell Backdoor) | picoCTF - byp4ss3d**  
    https://youtu.be/zZc6L5II90c
