@@ -1,15 +1,35 @@
-# TMS6064 Cyber Security – Assignment 1
+
+# TMS6064 Cyber Security Assignment 1
+- **Name:** ZAEIM HUZAIRY  
+- **Matric Number:** 25030303  
+- **Course:** TMS6064 Cyber Security 
 
 ## Disclaimer
 This project is conducted strictly for educational purposes in a controlled lab environment using virtual machines and authorized targets only.
 
+## Introduction
+
+## Objectives
+
+## Lab Environment
+
+## Tools Covered
+
+## Reconnaissance Tools
+
+## Maintaining Access Tools
+
+## Comparison of Tools
+
+## Conclusion
+
+## References
+
+
+
+
 ---
 
-## Student Information
-
-- **Name:** ZAEIM HUZAIRY  
-- **Matric Number:** 25030303  
-- **Course:** TMS6064 Cyber Security  
 
 ---
 
